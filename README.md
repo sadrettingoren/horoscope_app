@@ -14,5 +14,6 @@
 #Listelenen Burca Ait Özelliklerin Olduğu Section
 
 
-![Listelenen Burca Ait Özellik](https://github.com/sadrettingoren/Horoscope_Guide_App/assets/102412396/5641a88c-3b55-44a6-bbb7-baa95f39e903)
+![Listelenen Burca Ait Özellik](https://github.com/sadrettingoren/horoscope_app/assets/102412396/c154c2a8-535a-4e8e-96de-909f78f51412)
+
 
