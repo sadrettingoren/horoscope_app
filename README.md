@@ -1,16 +1,17 @@
-# horoscope_guide_app
+# Horoscope_Guide_App
+## Zodiac Signs List Application
+### Bu projemde burçları listeleyen ve her burç için o burca ait genel özelliklerin var olduğu proje geliştirdim.
 
-A new Flutter project.
+#### Kullandığım teknolojiler: #Flutter #Static json yapısı
 
-## Getting Started
+#Burçların Listelendiği Section
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![ana_menu_design](https://github.com/sadrettingoren/Horoscope_Guide_App/assets/102412396/bd0a367a-895a-41e4-8672-20d3d5126c21)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Listelenen Burca Ait Özelliklerin Olduğu Section
+
+
+![Listelenen Burca Ait Özellik](https://github.com/sadrettingoren/Horoscope_Guide_App/assets/102412396/5641a88c-3b55-44a6-bbb7-baa95f39e903)
+
