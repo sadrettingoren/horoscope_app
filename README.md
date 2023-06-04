@@ -7,7 +7,8 @@
 #Burçların Listelendiği Section
 
 
-![ana_menu_design](https://github.com/sadrettingoren/Horoscope_Guide_App/assets/102412396/bd0a367a-895a-41e4-8672-20d3d5126c21)
+![ana_menu_design](https://github.com/sadrettingoren/horoscope_app/assets/102412396/8446be0a-01f2-4cd7-bbff-c55cd670264c)
+
 
 
 #Listelenen Burca Ait Özelliklerin Olduğu Section
